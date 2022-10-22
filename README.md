@@ -1,5 +1,5 @@
 # Drowsiness Detector
-This project is a drowsiness detector built using the mediapipe library and opencv.
+This project is a simple drowsiness detector meant to detect drowsiness in drivers built using the mediapipe library and opencv.
 
 # Requirements
 - mediapipe
